@@ -1,7 +1,7 @@
 # CandlestickPlotter
 A Candlestick Plotter
 
-This is a part of a project I made while working in EYBOKAT. The full program was designed to connect to the Trader Workstation of Interactive Brokers (TWS) through the JAVA API, download real time prices for Bund stocks and apply various strategies. 
+This is a part of a program I have made, which was designed to connect to the Trader Workstation of Interactive Brokers (TWS) through the JAVA API, download real time prices for Bund stocks and apply various strategies. 
 
 https://institutions.interactivebrokers.com/en/index.php?f=1537
 
